@@ -1,2 +1,2 @@
 # SuperSmashTech
-SuperSmashTech game
+SuperSmashTech game, credit to Julie and Edgar from Google CSSI 
